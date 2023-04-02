@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@tmcw/togeojson": "^4.3.0"
+    "@tmcw/togeojson": "^4.7.0"
   },
   "devDependencies": {
     "@arcgis/core": "^4.19.0-next.20210321",
